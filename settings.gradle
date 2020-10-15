@@ -1,0 +1,2 @@
+rootProject.name = "Safeargs_Sample_Kotlin"
+include ':app'
